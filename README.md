@@ -53,12 +53,12 @@ The goal is to simulate real-world financial decision-making using Python and da
 ---
 
 ## 📂 Project Structure
-├── gas_storage_model.py
-├── credit_risk_model.py
-├── fico_quantization_model.py
-├── Nat_Gas (1).csv
-├── Task 3 and 4_Loan_Data.csv
-└── README.md
+-- gas_storage_model.py
+-- credit_risk_model.py
+-- fico_quantization_model.py
+-- Nat_Gas (1).csv
+-- Task 3 and 4_Loan_Data.csv
+-- README.md
 
 
 ---
