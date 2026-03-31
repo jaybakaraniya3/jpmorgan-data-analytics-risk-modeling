@@ -94,8 +94,10 @@ This project demonstrates how data analytics can be used to:
 
 ## 👤 Author
 
-**Jay Bakaraniya** 
-Jr. Data Analyst  
+**Jay Bakaraniya**
+Jr. Data Analyst
+Phone Number: 437-766-9294
+Email: jaybakaraniya.tech@gmail.com  
 
 ---
 
